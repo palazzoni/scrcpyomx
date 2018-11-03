@@ -12,7 +12,7 @@ also if the performance are better the delay is always too high for video (2/5 s
 rendering phase in scrcpy.c file.
 Please give me a feedback if you are interested in scrcpy dev on pi zero.
 
-If your target is only to cast Android screen to remote big screen via raspberry pi zero w  (without keyboard and mouse control)
+<b>If your target is only to cast Android screen to remote big screen via raspberry pi zero w </b> (without keyboard and mouse control)
 you can use an old stype bash script like startscreen.sh: it need netcat and omxplayer installed on the pi plus a copy of 
 scrcpy-server.jar android app from the original Genymobile scrcpy project (modify path of scrcpy-server-v1.x.jar to match your
 path on pi).
